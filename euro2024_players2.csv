@@ -1,0 +1,76 @@
+Name,Position,Age,Club,Height,Foot,Caps,Goals,MarketValue,Country
+Luka Lochoshvili,Centre-Back,26,US Cremonese,192,left,10,1,1100000,Georgia
+Lasha Dvali,Centre-Back,29,APOEL Nicosia,191,left,31,1,900000,Georgia
+Solomon Kvirkvelia,Centre-Back,32,Al-Okhdood Club,196,right,58,0,700000,Georgia
+Jemal Tabidze,Centre-Back,28,Panetolikos GFS,187,left,15,1,500000,Georgia
+Giorgi Gvelesiani,Centre-Back,33,Persepolis FC,193,right,0,0,400000,Georgia
+Guram Kashia,Centre-Back,36,Slovan Bratislava,185,right,112,3,250000,Georgia
+Giorgi Gocholeishvili,Right-Back,23,Shakhtar Donetsk,178,right,8,0,2500000,Georgia
+Anzor Mekvabishvili,Defensive Midfield,23,CS Universitatea Craiova,174,right,13,0,1200000,Georgia
+Nika Kvekveskiri,Defensive Midfield,32,Lech Poznan,186,right,59,0,500000,Georgia
+Gabriel Sigua,Central Midfield,18,FC Basel 1893,190,right,2,0,2500000,Georgia
+Giorgi Kochorashvili,Central Midfield,24,Levante UD,178,right,7,0,1000000,Georgia
+Sandro Altunashvili,Central Midfield,27,Wolfsberger AC,169,right,4,0,800000,Georgia
+Otar Kakabadze,Right Midfield,28,Cracovia,186,right,60,0,600000,Georgia
+Otar Kiteishvili,Attacking Midfield,28,SK Sturm Graz,173,both,36,2,5000000,Georgia
+Giorgi Chakvetadze,Attacking Midfield,24,Watford FC,183,right,24,8,2500000,Georgia
+Khvicha Kvaratskhelia,Left Winger,23,SSC Napoli,183,both,29,15,80000000,Georgia
+Saba Lobjanidze,Left Winger,29,Atlanta United FC,175,left,36,3,2000000,Georgia
+Georgiy Tsitaishvili,Left Winger,23,Dinamo Batumi,171,left,16,1,800000,Georgia
+Zuriko Davitashvili,Right Winger,23,FC Girondins Bordeaux,175,right,34,6,3000000,Georgia
+Levan Shengelia,Right Winger,28,Panetolikos GFS,184,left,16,1,750000,Georgia
+Georges Mikautadze,Centre-Forward,23,FC Metz,176,right,24,9,15000000,Georgia
+Giorgi Kvilitaia,Centre-Forward,30,APOEL Nicosia,193,right,37,6,1600000,Georgia
+Budu Zivzivadze,Centre-Forward,30,Karlsruher SC,189,both,25,7,900000,Georgia
+Diogo Costa,Goalkeeper,24,FC Porto,186,right,20,0,40000000,Portugal
+José Sá,Goalkeeper,31,Wolverhampton Wanderers,192,right,2,0,14000000,Portugal
+Rui Patrício,Goalkeeper,36,AS Roma,190,left,108,0,1000000,Portugal
+Rúben Dias,Centre-Back,27,Manchester City,187,right,55,3,80000000,Portugal
+Gonçalo Inácio,Centre-Back,22,Sporting CP,186,left,7,2,45000000,Portugal
+António Silva,Centre-Back,20,SL Benfica,187,right,10,0,45000000,Portugal
+Pepe,Centre-Back,41,FC Porto,187,right,136,8,500000,Portugal
+Nuno Mendes,Left-Back,21,Paris Saint-Germain,183,left,21,0,55000000,Portugal
+Diogo Dalot,Right-Back,25,Manchester United,184,right,18,2,35000000,Portugal
+João Cancelo,Right-Back,30,FC Barcelona,182,right,52,10,25000000,Portugal
+Nélson Semedo,Right-Back,30,Wolverhampton Wanderers,177,right,28,0,12000000,Portugal
+João Palhinha,Defensive Midfield,28,Fulham FC,190,right,26,2,55000000,Portugal
+João Neves,Defensive Midfield,19,SL Benfica,174,right,6,0,55000000,Portugal
+Rúben Neves,Defensive Midfield,27,Al-Hilal SFC,180,right,46,0,32000000,Portugal
+Danilo Pereira,Defensive Midfield,32,Paris Saint-Germain,188,right,72,2,8000000,Portugal
+Matheus Nunes,Central Midfield,25,Manchester City,183,right,12,2,50000000,Portugal
+Vitinha,Central Midfield,24,Paris Saint-Germain,172,right,16,0,50000000,Portugal
+Bruno Fernandes,Attacking Midfield,29,Manchester United,179,right,65,22,70000000,Portugal
+Bernardo Silva,Attacking Midfield,29,Manchester City,173,left,88,11,70000000,Portugal
+Rafael Leão,Left Winger,24,AC Milan,188,right,25,4,90000000,Portugal
+Diogo Jota,Left Winger,27,Liverpool FC,178,right,37,13,50000000,Portugal
+Pedro Neto,Right Winger,24,Wolverhampton Wanderers,172,left,6,1,55000000,Portugal
+Francisco Conceição,Right Winger,21,FC Porto,170,left,2,0,22000000,Portugal
+João Félix,Second Striker,24,FC Barcelona,181,right,37,7,30000000,Portugal
+Gonçalo Ramos,Centre-Forward,22,Paris Saint-Germain,185,right,12,8,50000000,Portugal
+Cristiano Ronaldo,Centre-Forward,39,Al-Nassr FC,188,right,206,128,15000000,Portugal
+Matej Kovar,Goalkeeper,24,Bayer 04 Leverkusen,196,right,1,0,7000000,Czech Republic
+Vitezslav Jaros,Goalkeeper,22,SK Sturm Graz,190,right,0,0,5000000,Czech Republic
+Jindrich Stanek,Goalkeeper,28,SK Slavia Prague,192,right,9,0,3500000,Czech Republic
+Martin Vitík,Centre-Back,21,AC Sparta Prague,193,right,1,0,12000000,Czech Republic
+Ladislav Krejci,Centre-Back,25,AC Sparta Prague,191,left,9,3,10000000,Czech Republic
+Tomas Vlcek,Centre-Back,23,SK Slavia Prague,181,right,1,0,6000000,Czech Republic
+Robin Hranac,Centre-Back,24,FC Viktoria Plzen,190,right,1,0,5000000,Czech Republic
+David Zima,Centre-Back,23,SK Slavia Prague,192,right,20,1,4000000,Czech Republic
+Tomas Holes,Centre-Back,31,SK Slavia Prague,180,right,27,2,2200000,Czech Republic
+David Jurásek,Left-Back,23,TSG 1899 Hoffenheim,183,left,7,0,8000000,Czech Republic
+Vladimír Coufal,Right-Back,31,West Ham United,174,right,40,1,8000000,Czech Republic
+Tomas Soucek,Defensive Midfield,29,West Ham United,192,right,68,12,30000000,Czech Republic
+Michal Sadílek,Central Midfield,25,Twente Enschede FC,169,left,23,1,8000000,Czech Republic
+Lukas Cerv,Central Midfield,23,FC Viktoria Plzen,182,-,0,0,1500000,Czech Republic
+David Doudera,Right Midfield,26,SK Slavia Prague,175,right,8,1,3000000,Czech Republic
+Lukas Provod,Left Midfield,27,SK Slavia Prague,189,left,18,2,3000000,Czech Republic
+Pavel Sulc,Attacking Midfield,23,FC Viktoria Plzen,177,right,1,0,6000000,Czech Republic
+Antonín Barák,Attacking Midfield,29,ACF Fiorentina,190,left,39,8,4500000,Czech Republic
+Ondrej Lingr,Attacking Midfield,25,Feyenoord Rotterdam,175,right,13,0,3500000,Czech Republic
+Matej Jurasek,Right Winger,20,SK Slavia Prague,181,-,1,0,8000000,Czech Republic
+Vaclav Cerny,Right Winger,26,VfL Wolfsburg,182,left,15,5,7000000,Czech Republic
+Adam Hlozek,Second Striker,21,Bayer 04 Leverkusen,188,right,31,2,12000000,Czech Republic
+Patrik Schick,Centre-Forward,28,Bayer 04 Leverkusen,191,left,37,18,22000000,Czech Republic
+Mojmír Chytil,Centre-Forward,25,SK Slavia Prague,187,-,12,4,6500000,Czech Republic
+Jan Kuchta,Centre-Forward,27,AC Sparta Prague,185,right,20,3,5000000,Czech Republic
+Tomas Chory,Centre-Forward,29,FC Viktoria Plzen,199,right,3,2,3200000,Czech Republic
